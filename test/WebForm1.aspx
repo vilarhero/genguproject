@@ -44,7 +44,7 @@
             text-align: center;
         }
         .auto-style8 {
-            font-size: xx-small;
+            font-size: x-small;
         }
         .auto-style9 {
             font-size: xx-large;
