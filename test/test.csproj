@@ -89,6 +89,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Models\banner.png" />
+    <Content Include="Models\bdb.png" />
+    <Content Include="Models\ico-1.png" />
+    <Content Include="Models\noc.png" />
+    <Content Include="Models\P1.png" />
+    <Content Include="Models\P2.png" />
+    <Content Include="Models\P3.png" />
+    <Content Include="Models\P4.png" />
+    <Content Include="Models\planet.jpg" />
+    <Content Include="Models\公司简介.png" />
+    <Content Include="Models\成果..png" />
+    <Content Include="Models\样本4.png" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
@@ -119,7 +131,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
