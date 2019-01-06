@@ -9,13 +9,12 @@
     <style type="text/css">
         .auto-style1 {
             font-size: xx-large;
-            text-align: center;
-        }
+            }
         .auto-style2 {
             font-size: x-large;
         }
         .auto-style4 {
-            font-size: small;
+            font-size: x-large;
             text-align: center;
             color: rgba(0, 0, 0, 0.870588);
             font-family: Roboto, sans-serif;
@@ -64,39 +63,144 @@
             background-color: rgb(255, 255, 255);
             background-repeat: no-repeat;
         }
-    </style>
+        .stylecs.css {}
+        .stylecs.css {}
+        .stylecs.css {}
+        .stylecs.css {
+            text-align: right;
+        }
+        .stylecs.css {
+            text-align: left;
+        }
+        .stylecs.css {
+            position: relative;
+            float: right;
+        }
+        .stylecs.css {
+            float: right;
+        }
+        .stylecs.css {
+            top: 74px;
+            left: 10px;
+            position: absolute;
+        }
+        .stylecs.css {}
+        .stylecs.css {}
+        .stylecs.css {
+            float: right;
+        }
+        .stylecs.css {}
+        .auto-style10 {
+            font-size: xx-large;
+            text-align: center;
+        }
+        .stylecs.css {
+            text-align: center;
+        }
+        .stylecs.css {}
+        .stylecs.css {
+            text-align: center;
+        }
+        .stylecs.css {
+            text-align: center;
+        }
+        .stylecs.css {
+            position: relative;
+        }
+        .stylecs.css {
+            text-align: center;
+        }
+        .stylecs.css {
+            text-align: left;
+        }
+        </style>
 </head>
 <body>
-    <h1>南京亘古信息科技有限公司</h1>
-    <p class="auto-style1" style="font-weight: 700">我们的优势</p>
     <form id="form1" runat="server">
+        <div>
+            <h1>南京亘古信息科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <asp:Label ID="Label1" runat="server" Text="首页" BorderColor="White" CssClass="stylecs.css" Font-Names="宋体" Font-Size="9pt" ForeColor="Black" Height="16px" Width="42px"></asp:Label>
+                    </h1>
+        </div>
+    
+    
         
                     <div>
-            <asp:Image runat="server" ImageUrl="C:\Users\vlh97\Desktop\图标\样本4.png" Height="200px" Width="200px" style="text-align: center"/>
-                        <br />
+                        <p class="auto-style1" style="font-weight: 700; text-align: center;">我们的优势</p>
+                        <img alt="" class="auto-style10;" style="position:absolute; top: 106px; left: 466px; right: 468px;" src="file:///D:/project1/test/Models/样本4.png" /><br />
     <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
-        <strong>自主创新研发</strong></p>
-    <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
-        公司依托于南京信息工程大学（原南京气象学院）国内一流的气象学科和庞大的气象专业团队。</p>
-                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
+        &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
                             &nbsp;</p>
-    <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
-        <strong>专业气象团队</strong></p>
-    <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
-        团队凭借雄厚的科研积淀、技术积累，专注于科研成果的技术转化，拥有的核心技术都是我国军、地各类气象部门业务现代化建设中急需的关键性技术，具有国际先进水平。</p>
-                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
                             &nbsp;</p>
-    <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
-        <strong>科研成果转化</strong></p>
-    <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
-        公司成立以来通过引进和吸收国内外新技术，自主创新开发了一系列气象新技术和新产品。</p>
-                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat; position: relative;">
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style2">
+                            &nbsp;</p>
+                        <div>
+                            <div>
+                        <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style6">
+                            <strong><span class="auto-style6">自主创新研发</span></strong></p><br class="auto-style6" /> 
+                        <asp:Label ID="Label2" runat="server" Text="&nbsp&nbsp公司依托于南京信息工程大学（原南京气象学院）国内一流的气象学科和庞大的气象专业团队。" BorderColor="White" CssClass="stylecs.css" Font-Names="宋体" Font-Size="10pt" ForeColor="Black" Height="100px" Width="300px" ></asp:Label>
+                        </div>
+    
+                        <div>
+                            <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style6">
+                            <strong><span class="auto-style6">专业气象团队</span></strong></p><br class="auto-style6" /> 
+                            <asp:Label ID="Label3" runat="server" Text="&nbsp&nbsp团队凭借雄厚的科研积淀、技术积累，专注于科研成果的技术转化，拥有的核心技术都是我国军、地各类气象部门业务现代化建设中急需的关键性技术，具有国际先进水平。" BorderColor="White" CssClass="stylecs.css" Font-Names="宋体" Font-Size="10pt" ForeColor="Black" Height="100px" Width="300px" ></asp:Label>
+                        </div>
+                        <div>
+                            <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style6">
+                            <strong><span class="auto-style6">科研成果转化</span></strong></p><br class="auto-style6" /> 
+                            <asp:Label ID="Label4" runat="server" Text="&nbsp&nbsp公司成立以来通过引进和吸收国内外新技术，自主创新开发了一系列气象新技术和新产品。" BorderColor="White" CssClass="stylecs.css" Font-Names="宋体" Font-Size="10pt" ForeColor="Black" Height="100px" Width="300px" ></asp:Label>
+                        </div>
+                        </div>
+                        
+    
+                       
+        </div>
+
+        <div>
+             <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat; position: relative;">
                             &nbsp;</p>
     <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
         &nbsp;</p>
                         <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
                             &nbsp;</p>
-    <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style1">
+    <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style10">
         <strong>公司简介</strong></p>
     <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style1">
         &nbsp;</p>
@@ -106,6 +210,8 @@
         &nbsp;</p>
     <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style5">
         科技服务社会</p>
+             <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style5">
+                 &nbsp;</p>
     <p data-v-3d1c5032="" style="box-sizing: inherit; orphans: 0; widows: 1; -webkit-text-stroke-width: 0px; " class="auto-style4">
         面对持续发展、迅速增长的海内外卫星应用服务市场，宏图人将不断坚持技术创新，全面提高企业的核心竞争力！</p>
                         <p data-v-3d1c5032="" style="box-sizing: inherit; orphans: 0; widows: 1; -webkit-text-stroke-width: 0px; " class="auto-style4">
@@ -115,14 +221,17 @@
                         <p data-v-3d1c5032="" style="box-sizing: inherit; orphans: 0; widows: 1; -webkit-text-stroke-width: 0px; " class="auto-style4">
                             &nbsp;</p>
                         <p data-v-3d1c5032="" style="box-sizing: inherit; orphans: 0; widows: 1; -webkit-text-stroke-width: 0px; " class="auto-style9">
-        <strong>热门产品</strong></p>
+        
+        </div>
+
+        <div>
+            <div class="auto-style10">
+            <strong>热门产品</strong></div>
+            </p>
     <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;" class="auto-style1">
         &nbsp;</p>
                         <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0 px; margin: 0 px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
                             &nbsp;</p>
-                    </div>
-
-        <div>
             <asp:Image runat="server"
                 ImageUrl="C:\Users\vlh97\Desktop\素材\P1.png" Height="200px" Width="200px" style="text-align: center; float: left;"/>
     <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
@@ -235,7 +344,7 @@
         </div>
     </div>
     <div class="auto-style7" style="box-sizing: inherit; padding: 8px; margin: 0px; align-items: center; display: flex; justify-content: center; border-bottom-left-radius: inherit; border-bottom-right-radius: inherit; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-repeat: no-repeat;">
-        ©2018 —<strong style="box-sizing: inherit; padding: 0px; margin: 0px; font-weight: bolder; background-repeat: no-repeat;">南京亘古信息科技</strong></div>
+        ©2019 —<strong style="box-sizing: inherit; padding: 0px; margin: 0px; font-weight: bolder; background-repeat: no-repeat;">南京亘古信息科技</strong></div>
     <p data-v-3d1c5032="" style="box-sizing: inherit; padding: 0px; margin: 0px; color: rgba(0, 0, 0, 0.870588); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.5px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); background-repeat: no-repeat;">
         &nbsp;</p>
 </body>
